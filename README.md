@@ -16,4 +16,6 @@ cmake ..
 
 and then compile it with your C/C++ compiler.
 
+Following is an animation result (may take several seconds to load).
+
 <img src="./sidebyside.gif"/>
